@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "index.js": "^0.0.3"
+  },
+  "name": "tofolist",
+  "version": "1.0.0",
+  "description": " Seznam skolnich ukolu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucny/node-todolist.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "PUG",
+    "CSV"
+  ],
+  "author": "Marek Lucny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucny/node-todolist/issues"
+  },
+  "homepage": "https://github.com/lucny/node-todolist#readme"
+}
